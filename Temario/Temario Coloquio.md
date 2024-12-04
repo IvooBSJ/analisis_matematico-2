@@ -6,34 +6,64 @@
 ![[t_parte2.jpg]]
 
 
-### 10 de Enero
-- [x]  Derivadas Parciales - Larson (908)
-- [x] Curvas de nivel - Stewart (893)
-- [x] Definicion de Diferencial Total - Larson (918)
-- [x] Definicion e Interpretacion Geometrica de Diferencial total - Stewart (932)
-- [x] Def. Diferenciabilidad y condiciones suficientes para diferenciabilidad - Larson (919)
-- [x] Plano tangente - Larson (945)
-- [x] Interpretacion geometrica de la diferencial total - Rabu
-- [x] Diferenciabilidad implica continuidad - Larson (921)
-- [x] Derivada Direccional - Larson (933)
-- [x] Gradiente - Larson (937)
-- [x] Recta Normal - Rabu
-### 16 de Enero
+### Estudiado hasta 2 dic (Hecho en 1 dic)
+- [x]  Puntos críticos.
+- [x] Cómo se define un máximo. Extremos relativos en pag 50 apunte?
+- [x] Un mínimo.
+- [x] Diferencial de un campo escalar, su interpretación geométrica. (A medias)
+- [x] Aproximación lineal de una función.
+- [x] Desarrollo de Taylor para que sea mas exacta.  El 29/04/24 en mi carpeta.
+- [x] EDO Diferenciales 1er Orden. Masomenos nomas
+- [x] EDO Diferenciales 2do Orden.
+- [x] Integral de Linea de Campos Vectoriales
+- [x] Integral de Volumen de una Superficie.
+- [x] Integral de Volumen de un solido.
+- [x] Integral de Linea de campos vectoriales en el espacio.
+- [x] Integral de Superficie de f sobre S.
+- [x] Integral de Flujo de Campo Vectorial.
+- [x] Las Integrales con Teorema de la divergencia.
+- [x] Integral con teorema del rotor.
+- [x] Series de Fourier Pag 42 Apunte.
+### Estudiado 2 de dic
 
-- [x] Integrales Dobles y Volumen - Larson (933)
-- [x] Area de una Superficie en el espacio - Larson (1020)
-- [x] Integrales Triples - Larson (1027)
-- [ ] Jacobiano - Larson (1045)
-- [ ] Campos Vectoriales - Larson (1058) ( Todo lo de conservativo y demas)
-- [ ] Curva Suave - Larson (1069)
-- [ ] Longitud de Arco - Larson (723)
-- [ ] Longitud de Arco de Forma Vectorial - Larson (869)
-- [ ] Integrales de Linea - Larson (1070)
-- [ ] Integrales de Linea de Campos Vectoriales - Larson (1074)
-- [ ] Integrales de Linea de forma Diferencial - Larson (1077)
-- [ ] TEOREMA FUNDAMENTAL DE LAS INTEGRALES DE LINEA - Larson (1084)
-- [ ] Condiciones Equivalentes - Larson (1088)
-- [ ] Vector Unitario Tangente - Larson (859)
+- [x]  Puntos críticos.
+- [x] Cómo se define un máximo. Extremos relativos en pag 50 apunte?
+- [x] Un mínimo.
+- [x] Diferencial de un campo escalar, su interpretación geométrica. 
+- [x] Aproximación lineal de una función.
+- [x] Desarrollo de Taylor para que sea mas exacta.  El 29/04/24 en mi carpeta.
+- [x] EDO Diferenciales 1er Orden. 
+- [x] EDO Diferenciales 2do Orden. 12/11/24 en mi carpeta. Ojear nomas pag 37 AM2 apunte.
+- [x] Integral de Linea de Campos Vectoriales
+- [x] Integral de Volumen de una Superficie.
+- [x] Integral de Volumen de un solido.
+- [x] Integral de Linea de campos vectoriales en el espacio.
+- [x] Integral de Superficie de f sobre S. Osea de un campo escalar.
+- [x] Integral de Flujo de Campo Vectorial.
+- [x] Las Integrales con Teorema de la divergencia.
+- [x] Integral con teorema del rotor.
+- [x] Series de Fourier Pag 42 Apunte. Y 04/06/2024 carpeta.
+
+### Practicado 3 de dic
+
+- [ ]  Puntos críticos.
+- [ ] Cómo se define un máximo. Extremos relativos en pag 50 apunte?
+- [ ] Un mínimo.
+- [ ] Diferencial de un campo escalar, su interpretación geométrica. 
+- [ ] Aproximación lineal de una función.
+- [ ] Desarrollo de Taylor para que sea mas exacta.  El 29/04/24 en mi carpeta.
+- [ ] EDO Diferenciales 1er Orden. 
+- [ ] EDO Diferenciales 2do Orden. 12/11/24 en mi carpeta. Ojear nomas pag 37 AM2 apunte.
+- [ ] Integral de Linea de Campos Vectoriales
+- [ ] Integral de Volumen de una Superficie.
+- [ ] Integral de Volumen de un solido.
+- [ ] Integral de Linea de densidad de una curva en el espacio.
+- [ ] Integral de Superficie de f sobre S. Osea de un campo escalar.
+- [ ] Integral de Flujo de Campo Vectorial.
+- [ ] Las Integrales con Teorema de la divergencia.
+- [ ] Integral con teorema del rotor.
+- [ ] Series de Fourier Pag 42 Apunte. Y 04/06/2024 carpeta.
+- [ ] Campos Vectoriales Conservativos.
 ### 22 de Enero
 - [x] Teorema de Green - Larson 1093
 - [x] Integral de linea para el Area - Buscar

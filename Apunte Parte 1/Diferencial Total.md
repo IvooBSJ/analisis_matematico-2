@@ -21,7 +21,7 @@ Suma recomendacion hojear el [[Venturini.pdf]] pagina *115*
 Interpretacion geometrica del libro [[Stewart.pdf]]
 
 ![[Pasted image 20240110212810.png]]
-
+**Aproximacion lineal es**: f(x,y) = f(a,b) + fx(a,b)(x-a) + fy(a,b)(y-b)
 ## Extra de [[Venturini.pdf]]
 
 ![[Pasted image 20240111174919.png]]

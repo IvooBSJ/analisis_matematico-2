@@ -3,7 +3,7 @@
 - Libros: [[Larson.pdf]]
 - Pagina *919*
 ---
-# Definiciion
+# Definicion
 
 Personalmente con el ejemplo y esta definicion no la entendi tan bien. Es por eso que recurri a la obra maestra de [[Venturini.pdf]] Pagina **, ya que el esta parte lo explica bien.
 

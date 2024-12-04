@@ -17,7 +17,7 @@
 
 ![[Pasted image 20240123173454.png]]
 ![[Pasted image 20240123173543.png]]
-
+Trabajo de un campo vectorial sobre una curva C.
 
 
 ---
